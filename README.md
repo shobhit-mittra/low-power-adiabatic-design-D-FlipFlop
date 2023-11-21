@@ -4,8 +4,8 @@ This repository showcases the design and comparitive analysis of an CMOS-based D
 
 # Index : 
 
-- [Introduction] :
-- [Adiabatic Circuits] :
+- [Introduction](Introduction.md) :
+- [Adiabatic Circuits](Adiabatic_Circuits.md) :
 - [Design Methodology] :
 - [Results and Discussion] :
 
