@@ -6,7 +6,7 @@ This repository showcases the design and comparitive analysis of an CMOS-based D
 
 - [Introduction](Introduction.md) :
 - [Adiabatic Circuits](Adiabatic_Circuits.md) :
-- [Design Methodology] :
+- [Design Methodology](Design_Methodology.md) :
 - [Results and Discussion] :
 
 
